@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 URL = 'https://www.amazon.in/American-Tourister-AMT-SCH-02/dp/B07CJCGM1M/ref=sr_1_1?crid=1N9Q8H3L4BTWF&dchild=1&keywords=american+tourister+backpacks&qid=1596970107&sprefix=ame%2Caps%2C609&sr=8-1'
 
-headers = {"User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36'}
+headers = {"User-Agent": 'Your User Agent Deatils Here'}
 
 def check_price():
 
